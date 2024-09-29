@@ -1,4 +1,4 @@
 # manisha-demo
 basic Git Repository
 <br>
-Author-Manisha
+Author-Manisha (b.tech student)
